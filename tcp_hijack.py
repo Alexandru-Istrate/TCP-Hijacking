@@ -5,6 +5,8 @@ import sys
 import threading
 import readline
 
+# PHASE II OF THE ATTACK
+
 global server_ip 
 global server_port
 hijack_payoad = b''
